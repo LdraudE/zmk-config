@@ -15,3 +15,5 @@
 include:
   - board: nice_nano_v2
     shield: mininovaii
+  - board: nice_nano//zmk@2
+    shield: mininovaii
